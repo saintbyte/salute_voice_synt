@@ -1,0 +1,12 @@
+[Details]
+  Icon = "Icon.png"
+  Name = "Salute Synt"
+  ID = "com.saintbyte.salute_voice_synt"
+  Version = "1.0.0"
+  Website = "https://github.com/saintbyte"
+  Build = 1
+[LinuxAndBSD]
+  GenericName = "SaluteSynt"
+  Categories = ["Multimedia"]
+  Comment = "Generate audio from text"
+  Keywords = ["multimedia", "audio"]
